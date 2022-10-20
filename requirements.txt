@@ -1,0 +1,7 @@
+python-telegram-bot==13.14
+opencv-python==4.5.5.64
+faiss-cpu==1.7.2
+cython==0.29.14
+onnxruntime==1.12.1
+insightface==0.6.2
+sqlitedict==2.0.0
